@@ -100,17 +100,6 @@
       "imagen": "https://http2.mlstatic.com/D_NQ_NP_825882-MLM49006269780_112021-O.jpg"
     },
     {
-      "titulo": "HP Omen 30L",
-      "precio": 40000,
-      "descripcion": {
-        "es": "HP Omen 30L, con procesador i7 y gráficos RTX 3070.",
-        "en": "HP Omen 30L, with i7 processor and RTX 3070 graphics."
-      },
-      "rating": 4.9,
-      "stock": 3,
-      "imagen": "https://http2.mlstatic.com/D_NQ_NP_844924-MLM48768920396_112021-O.jpg"
-    },
-    {
       "titulo": "Dell G5 Gaming Desktop",
       "precio": 33000,
       "descripcion": {
@@ -120,28 +109,6 @@
       "rating": 4.7,
       "stock": 5,
       "imagen": "https://http2.mlstatic.com/D_NQ_NP_912443-MLM48768920392_112021-O.jpg"
-    },
-    {
-      "titulo": "Corsair One i160",
-      "precio": 60000,
-      "descripcion": {
-        "es": "Corsair One i160, un equipo compactado y de alto rendimiento.",
-        "en": "Corsair One i160, a compact and high-performance machine."
-      },
-      "rating": 4.8,
-      "stock": 2,
-      "imagen": "https://http2.mlstatic.com/D_NQ_NP_723158-MLM49006269788_112021-O.jpg"
-    },
-    {
-      "titulo": "HP Slim Desktop",
-      "precio": 12000,
-      "descripcion": {
-        "es": "HP Slim Desktop, ideal para tareas diarias.",
-        "en": "HP Slim Desktop, ideal for daily tasks."
-      },
-      "rating": 4.4,
-      "stock": 15,
-      "imagen": "https://http2.mlstatic.com/D_NQ_NP_966513-MLM47123750552_092021-O.jpg"
     },
     {
       "titulo": "Asus Zen AiO",
@@ -175,17 +142,6 @@
       "rating": 4.7,
       "stock": 4,
       "imagen": "https://http2.mlstatic.com/D_NQ_NP_908423-MLM49006269784_112021-O.jpg"
-    },
-    {
-      "titulo": "Acer Aspire XC",
-      "precio": 13000,
-      "descripcion": {
-        "es": "Acer Aspire XC, diseño elegante y buen rendimiento.",
-        "en": "Acer Aspire XC, stylish design and good performance."
-      },
-      "rating": 4.3,
-      "stock": 12,
-      "imagen": "https://http2.mlstatic.com/D_NQ_NP_947513-MLM49006269782_112021-O.jpg"
     }
   ],
   "laptops": [
@@ -311,17 +267,6 @@
       "imagen": "https://http2.mlstatic.com/D_NQ_NP_721015-MLM46598394652_062021-O.jpg"
     },
     {
-      "titulo": "Acer Swift 3",
-      "precio": 15000,
-      "descripcion": {
-        "es": "Acer Swift 3 con pantalla de 14\" y 8GB RAM.",
-        "en": "Acer Swift 3 with 14\" display and 8GB RAM."
-      },
-      "rating": 4.5,
-      "stock": 15,
-      "imagen": "https://http2.mlstatic.com/D_NQ_NP_767475-MLM46383618282_062021-O.jpg"
-    },
-    {
       "titulo": "Samsung Galaxy Book Pro",
       "precio": 22000,
       "descripcion": {
@@ -333,17 +278,6 @@
       "imagen": "https://http2.mlstatic.com/D_NQ_NP_751839-MLM48770659951_112021-O.jpg"
     },
     {
-      "titulo": "Omen by HP 15",
-      "precio": 19000,
-      "descripcion": {
-        "es": "Omen by HP 15, con gráficos RTX y 16GB RAM.",
-        "en": "Omen by HP 15, with RTX graphics and 16GB RAM."
-      },
-      "rating": 4.7,
-      "stock": 6,
-      "imagen": "https://http2.mlstatic.com/D_NQ_NP_804532-MLM49098797145_112021-O.jpg"
-    },
-    {
       "titulo": "Acer Chromebook 14",
       "precio": 7000,
       "descripcion": {
@@ -353,28 +287,6 @@
       "rating": 4.4,
       "stock": 20,
       "imagen": "https://http2.mlstatic.com/D_NQ_NP_999324-MLM45929069778_052021-O.jpg"
-    },
-    {
-      "titulo": "Toshiba Dynabook",
-      "precio": 10000,
-      "descripcion": {
-        "es": "Toshiba Dynabook con pantalla de 15.6\" y 8GB RAM.",
-        "en": "Toshiba Dynabook with 15.6\" display and 8GB RAM."
-      },
-      "rating": 4.5,
-      "stock": 11,
-      "imagen": "https://http2.mlstatic.com/D_NQ_NP_741022-MLM48170076466_112021-O.jpg"
-    },
-    {
-      "titulo": "Lenovo Legion 5",
-      "precio": 25000,
-      "descripcion": {
-        "es": "Lenovo Legion 5, laptop gamer con gráficos RTX y 16GB RAM.",
-        "en": "Lenovo Legion 5, gaming laptop with RTX graphics and 16GB RAM."
-      },
-      "rating": 4.8,
-      "stock": 5,
-      "imagen": "https://http2.mlstatic.com/D_NQ_NP_748324-MLM48905957690_112021-O.jpg"
     }
   ]
 }
