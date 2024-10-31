@@ -1,0 +1,189 @@
+[
+  {
+    "titulo": "HP Desktop",
+    "precio": 15000,
+    "descripcion": {
+      "es": "PC HP con procesador Intel Core i5, 8GB RAM y 1TB HDD.",
+      "en": "HP PC with Intel Core i5 processor, 8GB RAM, and 1TB HDD."
+    },
+    "rating": 4.5,
+    "stock": 10,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_950234-MLM45923903244_052021-O.jpg"
+  },
+  {
+    "titulo": "Lenovo ThinkCentre",
+    "precio": 16000,
+    "descripcion": {
+      "es": "Lenovo ThinkCentre M720, ideal para trabajo de oficina.",
+      "en": "Lenovo ThinkCentre M720, ideal for office work."
+    },
+    "rating": 4.6,
+    "stock": 8,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_844712-MLM46012583614_052021-O.jpg"
+  },
+  {
+    "titulo": "Dell OptiPlex 3070",
+    "precio": 17000,
+    "descripcion": {
+      "es": "Dell OptiPlex 3070, con procesador i5 y 8GB RAM.",
+      "en": "Dell OptiPlex 3070, with i5 processor and 8GB RAM."
+    },
+    "rating": 4.7,
+    "stock": 12,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_892567-MLM47039209532_092021-O.jpg"
+  },
+  {
+    "titulo": "Acer Aspire TC",
+    "precio": 14500,
+    "descripcion": {
+      "es": "Acer Aspire TC, con gráficos integrados y 1TB HDD.",
+      "en": "Acer Aspire TC, with integrated graphics and 1TB HDD."
+    },
+    "rating": 4.4,
+    "stock": 5,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_858167-MLM47039209628_092021-O.jpg"
+  },
+  {
+    "titulo": "HP ProDesk 400",
+    "precio": 15500,
+    "descripcion": {
+      "es": "HP ProDesk 400 G5, PC de escritorio para oficinas.",
+      "en": "HP ProDesk 400 G5, desktop PC for offices."
+    },
+    "rating": 4.5,
+    "stock": 10,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_743056-MLM46101211360_062021-O.jpg"
+  },
+  {
+    "titulo": "Asus ROG Strix GA15",
+    "precio": 22000,
+    "descripcion": {
+      "es": "Asus ROG Strix GA15, para gamers, con RTX 3060.",
+      "en": "Asus ROG Strix GA15, for gamers, with RTX 3060."
+    },
+    "rating": 4.8,
+    "stock": 3,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_861536-MLM46145553429_062021-O.jpg"
+  },
+  {
+    "titulo": "MSI Trident 3",
+    "precio": 30000,
+    "descripcion": {
+      "es": "MSI Trident 3, compacta y potente, ideal para gamers.",
+      "en": "MSI Trident 3, compact and powerful, ideal for gamers."
+    },
+    "rating": 4.7,
+    "stock": 4,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_761788-MLM49006269787_112021-O.jpg"
+  },
+  {
+    "titulo": "Acer Predator Orion",
+    "precio": 35000,
+    "descripcion": {
+      "es": "Acer Predator Orion, para experiencias de gaming inmersivas.",
+      "en": "Acer Predator Orion, for immersive gaming experiences."
+    },
+    "rating": 4.9,
+    "stock": 2,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_797813-MLM46967921725_092021-O.jpg"
+  },
+  {
+    "titulo": "Lenovo Legion Tower 5",
+    "precio": 30000,
+    "descripcion": {
+      "es": "Lenovo Legion Tower 5, ideal para juegos y trabajo.",
+      "en": "Lenovo Legion Tower 5, ideal for gaming and work."
+    },
+    "rating": 4.8,
+    "stock": 6,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_825882-MLM49006269780_112021-O.jpg"
+  },
+  {
+    "titulo": "HP Omen 30L",
+    "precio": 40000,
+    "descripcion": {
+      "es": "HP Omen 30L, con procesador i7 y gráficos RTX 3070.",
+      "en": "HP Omen 30L, with i7 processor and RTX 3070 graphics."
+    },
+    "rating": 4.9,
+    "stock": 3,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_844924-MLM48768920396_112021-O.jpg"
+  },
+  {
+    "titulo": "Dell G5 Gaming Desktop",
+    "precio": 33000,
+    "descripcion": {
+      "es": "Dell G5 Gaming Desktop, rendimiento optimizado para juegos.",
+      "en": "Dell G5 Gaming Desktop, optimized performance for gaming."
+    },
+    "rating": 4.7,
+    "stock": 5,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_912443-MLM48768920392_112021-O.jpg"
+  },
+  {
+    "titulo": "Corsair One i160",
+    "precio": 60000,
+    "descripcion": {
+      "es": "Corsair One i160, un equipo compactado y de alto rendimiento.",
+      "en": "Corsair One i160, a compact and high-performance machine."
+    },
+    "rating": 4.8,
+    "stock": 2,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_723158-MLM49006269788_112021-O.jpg"
+  },
+  {
+    "titulo": "HP Slim Desktop",
+    "precio": 12000,
+    "descripcion": {
+      "es": "HP Slim Desktop, ideal para tareas diarias.",
+      "en": "HP Slim Desktop, ideal for daily tasks."
+    },
+    "rating": 4.4,
+    "stock": 15,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_966513-MLM47123750552_092021-O.jpg"
+  },
+  {
+    "titulo": "Asus Zen AiO",
+    "precio": 22000,
+    "descripcion": {
+      "es": "Asus Zen AiO, todo en uno con pantalla táctil.",
+      "en": "Asus Zen AiO, all-in-one with touchscreen."
+    },
+    "rating": 4.5,
+    "stock": 10,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_878867-MLM49006269784_112021-O.jpg"
+  },
+  {
+    "titulo": "Acer Revo One",
+    "precio": 16000,
+    "descripcion": {
+      "es": "Acer Revo One, compacto y elegante, ideal para entretenimiento.",
+      "en": "Acer Revo One, compact and stylish, ideal for entertainment."
+    },
+    "rating": 4.6,
+    "stock": 8,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_954234-MLM49006269781_112021-O.jpg"
+  },
+  {
+    "titulo": "Lenovo ThinkStation",
+    "precio": 40000,
+    "descripcion": {
+      "es": "Lenovo ThinkStation, para profesionales creativos y de diseño.",
+      "en": "Lenovo ThinkStation, for creative and design professionals."
+    },
+    "rating": 4.7,
+    "stock": 4,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_908423-MLM49006269784_112021-O.jpg"
+  },
+  {
+    "titulo": "Acer Aspire XC",
+    "precio": 13000,
+    "descripcion": {
+      "es": "Acer Aspire XC, diseño elegante y buen rendimiento.",
+      "en": "Acer Aspire XC, stylish design and good performance."
+    },
+    "rating": 4.3,
+    "stock": 12,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_947513-MLM49006269782_112021-O.jpg"
+  }
+]

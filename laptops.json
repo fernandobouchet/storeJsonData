@@ -1,0 +1,189 @@
+[
+  {
+    "titulo": "HP Laptop 15",
+    "precio": 12000,
+    "descripcion": {
+      "es": "Laptop HP 15 con procesador Intel Core i5, 8GB RAM y 512GB SSD.",
+      "en": "HP Laptop 15 with Intel Core i5 processor, 8GB RAM, and 512GB SSD."
+    },
+    "rating": 4.5,
+    "stock": 15,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_919493-MLM46393484471_062021-O.jpg"
+  },
+  {
+    "titulo": "Lenovo IdeaPad 3",
+    "precio": 11500,
+    "descripcion": {
+      "es": "Laptop Lenovo IdeaPad 3, con pantalla de 15.6\" y procesador AMD Ryzen 5.",
+      "en": "Lenovo IdeaPad 3 laptop with a 15.6\" screen and AMD Ryzen 5 processor."
+    },
+    "rating": 4.7,
+    "stock": 20,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_837026-MLM47482316202_092021-O.jpg"
+  },
+  {
+    "titulo": "Dell Inspiron 15",
+    "precio": 14500,
+    "descripcion": {
+      "es": "Dell Inspiron 15 con 16GB RAM y 1TB HDD, ideal para uso cotidiano.",
+      "en": "Dell Inspiron 15 with 16GB RAM and 1TB HDD, ideal for everyday use."
+    },
+    "rating": 4.6,
+    "stock": 10,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_767465-MLM46634512405_062021-O.jpg"
+  },
+  {
+    "titulo": "Asus VivoBook 14",
+    "precio": 13500,
+    "descripcion": {
+      "es": "Asus VivoBook 14 con procesador Intel Core i7 y 8GB RAM.",
+      "en": "Asus VivoBook 14 with Intel Core i7 processor and 8GB RAM."
+    },
+    "rating": 4.8,
+    "stock": 12,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_886364-MLM48286802161_112021-O.jpg"
+  },
+  {
+    "titulo": "Huawei Matebook D15",
+    "precio": 14000,
+    "descripcion": {
+      "es": "Huawei Matebook D15, Intel Core i5, 8GB RAM, 512GB SSD.",
+      "en": "Huawei Matebook D15, Intel Core i5, 8GB RAM, 512GB SSD."
+    },
+    "rating": 4.8,
+    "stock": 15,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_712835-MLM48745529488_112021-O.jpg"
+  },
+  {
+    "titulo": "Acer Aspire 5",
+    "precio": 12500,
+    "descripcion": {
+      "es": "Acer Aspire 5 con procesador Ryzen 5, 8GB RAM, 256GB SSD.",
+      "en": "Acer Aspire 5 with Ryzen 5 processor, 8GB RAM, 256GB SSD."
+    },
+    "rating": 4.6,
+    "stock": 18,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_752303-MLM46315965471_062021-O.jpg"
+  },
+  {
+    "titulo": "Microsoft Surface Laptop 4",
+    "precio": 23000,
+    "descripcion": {
+      "es": "Microsoft Surface Laptop 4, 13.5\" pantalla táctil, 16GB RAM.",
+      "en": "Microsoft Surface Laptop 4, 13.5\" touchscreen, 16GB RAM."
+    },
+    "rating": 4.9,
+    "stock": 8,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_840307-MLM46402000148_062021-O.jpg"
+  },
+  {
+    "titulo": "LG Gram 17",
+    "precio": 25000,
+    "descripcion": {
+      "es": "LG Gram 17 con pantalla de 17\" y batería de larga duración.",
+      "en": "LG Gram 17 with 17\" display and long-lasting battery."
+    },
+    "rating": 4.7,
+    "stock": 5,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_826306-MLM48768920399_112021-O.jpg"
+  },
+  {
+    "titulo": "Razer Blade 15",
+    "precio": 40000,
+    "descripcion": {
+      "es": "Razer Blade 15, ideal para gamers, RTX 3060, 16GB RAM.",
+      "en": "Razer Blade 15, ideal for gamers, RTX 3060, 16GB RAM."
+    },
+    "rating": 4.8,
+    "stock": 3,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_753928-MLM46192816343_062021-O.jpg"
+  },
+  {
+    "titulo": "Dell XPS 13",
+    "precio": 35000,
+    "descripcion": {
+      "es": "Dell XPS 13, diseño ultradelgado, 16GB RAM, 512GB SSD.",
+      "en": "Dell XPS 13, ultra-thin design, 16GB RAM, 512GB SSD."
+    },
+    "rating": 4.9,
+    "stock": 4,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_946874-MLM48623426457_112021-O.jpg"
+  },
+  {
+    "titulo": "MSI Prestige 14",
+    "precio": 28000,
+    "descripcion": {
+      "es": "MSI Prestige 14, con pantalla 4K y procesador i7.",
+      "en": "MSI Prestige 14, with 4K display and i7 processor."
+    },
+    "rating": 4.7,
+    "stock": 6,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_721015-MLM46598394652_062021-O.jpg"
+  },
+  {
+    "titulo": "Acer Swift 3",
+    "precio": 15000,
+    "descripcion": {
+      "es": "Acer Swift 3 con pantalla de 14\" y 8GB RAM.",
+      "en": "Acer Swift 3 with 14\" display and 8GB RAM."
+    },
+    "rating": 4.5,
+    "stock": 15,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_767475-MLM46383618282_062021-O.jpg"
+  },
+  {
+    "titulo": "Samsung Galaxy Book Pro",
+    "precio": 22000,
+    "descripcion": {
+      "es": "Samsung Galaxy Book Pro, procesador Intel, 8GB RAM.",
+      "en": "Samsung Galaxy Book Pro, Intel processor, 8GB RAM."
+    },
+    "rating": 4.8,
+    "stock": 7,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_751839-MLM48770659951_112021-O.jpg"
+  },
+  {
+    "titulo": "Omen by HP 15",
+    "precio": 19000,
+    "descripcion": {
+      "es": "Omen by HP 15, con gráficos RTX y 16GB RAM.",
+      "en": "Omen by HP 15, with RTX graphics and 16GB RAM."
+    },
+    "rating": 4.7,
+    "stock": 6,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_804532-MLM49098797145_112021-O.jpg"
+  },
+  {
+    "titulo": "Acer Chromebook 14",
+    "precio": 7000,
+    "descripcion": {
+      "es": "Acer Chromebook 14, ideal para estudiantes, 4GB RAM.",
+      "en": "Acer Chromebook 14, ideal for students, 4GB RAM."
+    },
+    "rating": 4.4,
+    "stock": 20,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_999324-MLM45929069778_052021-O.jpg"
+  },
+  {
+    "titulo": "Toshiba Dynabook",
+    "precio": 10000,
+    "descripcion": {
+      "es": "Toshiba Dynabook con pantalla de 15.6\" y 8GB RAM.",
+      "en": "Toshiba Dynabook with 15.6\" display and 8GB RAM."
+    },
+    "rating": 4.5,
+    "stock": 11,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_741022-MLM48170076466_112021-O.jpg"
+  },
+  {
+    "titulo": "Lenovo Legion 5",
+    "precio": 25000,
+    "descripcion": {
+      "es": "Lenovo Legion 5, laptop gamer con gráficos RTX y 16GB RAM.",
+      "en": "Lenovo Legion 5, gaming laptop with RTX graphics and 16GB RAM."
+    },
+    "rating": 4.8,
+    "stock": 5,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_748324-MLM48905957690_112021-O.jpg"
+  }
+]
