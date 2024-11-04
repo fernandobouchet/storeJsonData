@@ -121,18 +121,6 @@
       "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_742675-MLA77494021349_072024-F.webp"
     },
     {
-      "id": 11,
-      "titulo": "Asus Zen AiO",
-      "precio": 2200000,
-      "descripcion": {
-        "es": "Asus Zen AiO, todo en uno con pantalla táctil.",
-        "en": "Asus Zen AiO, all-in-one with touchscreen."
-      },
-      "rating": 4.5,
-      "stock": 10,
-      "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_844499-MLA79172191869_092024-F.webp"
-    },
-    {
       "id": 12,
       "titulo": "Acer Revo One",
       "precio": 1600000,
@@ -241,18 +229,6 @@
       "rating": 4.9,
       "stock": 8,
       "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_642823-MLA69189911693_052023-F.webp"
-    },
-    {
-      "id": 21,
-      "titulo": "LG Gram 17",
-      "precio": 2500000,
-      "descripcion": {
-        "es": "LG Gram 17 con pantalla de 17\" y batería de larga duración.",
-        "en": "LG Gram 17 with 17\" display and long-lasting battery."
-      },
-      "rating": 4.7,
-      "stock": 5,
-      "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_926334-MLA76620010464_062024-F.webp"
     },
     {
       "id": 22,
