@@ -1,6 +1,7 @@
 {
   "pcs": [
     {
+      "id": 1,
       "titulo": "HP Desktop",
       "precio": 1500000,
       "descripcion": {
@@ -12,6 +13,7 @@
       "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_944250-MLA77438022853_072024-F.webp"
     },
     {
+      "id": 2,
       "titulo": "Lenovo ThinkCentre",
       "precio": 1600000,
       "descripcion": {
@@ -23,6 +25,7 @@
       "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_711967-MLU76718881735_052024-F.webp"
     },
     {
+      "id": 3,
       "titulo": "Dell OptiPlex 3070",
       "precio": 1700000,
       "descripcion": {
@@ -34,6 +37,7 @@
       "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_742675-MLA77494021349_072024-F.webp"
     },
     {
+      "id": 4,
       "titulo": "Acer Aspire TC",
       "precio": 1450000,
       "descripcion": {
@@ -45,6 +49,7 @@
       "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_793886-MLA70953519793_082023-F.webp"
     },
     {
+      "id": 5,
       "titulo": "HP ProDesk 400",
       "precio": 1550000,
       "descripcion": {
@@ -56,6 +61,7 @@
       "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_605448-MLU74570635949_022024-F.webp"
     },
     {
+      "id": 6,
       "titulo": "Asus ROG Strix GA15",
       "precio": 2200000,
       "descripcion": {
@@ -67,6 +73,7 @@
       "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_806556-MLA50006658376_052022-F.webp"
     },
     {
+      "id": 7,
       "titulo": "MSI Trident 3",
       "precio": 3000000,
       "descripcion": {
@@ -78,6 +85,7 @@
       "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_809537-MLA80172069479_102024-F.webp"
     },
     {
+      "id": 8,
       "titulo": "Acer Predator Orion",
       "precio": 3500000,
       "descripcion": {
@@ -89,6 +97,7 @@
       "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_714131-MLA49934417649_052022-F.webp"
     },
     {
+      "id": 9,
       "titulo": "Lenovo Legion Tower 5",
       "precio": 3000000,
       "descripcion": {
@@ -100,6 +109,7 @@
       "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_980239-MLA71104365774_082023-F.webp"
     },
     {
+      "id": 10,
       "titulo": "Dell G5 Gaming Desktop",
       "precio": 3300000,
       "descripcion": {
@@ -111,6 +121,7 @@
       "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_742675-MLA77494021349_072024-F.webp"
     },
     {
+      "id": 11,
       "titulo": "Asus Zen AiO",
       "precio": 2200000,
       "descripcion": {
@@ -122,6 +133,7 @@
       "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_844499-MLA79172191869_092024-F.webp"
     },
     {
+      "id": 12,
       "titulo": "Acer Revo One",
       "precio": 1600000,
       "descripcion": {
@@ -133,6 +145,7 @@
       "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_905364-MLU74360042472_022024-F.webp"
     },
     {
+      "id": 13,
       "titulo": "Lenovo ThinkStation",
       "precio": 4000000,
       "descripcion": {
@@ -146,6 +159,7 @@
   ],
   "laptops": [
     {
+      "id": 14,
       "titulo": "HP Laptop 15",
       "precio": 1200000,
       "descripcion": {
@@ -157,6 +171,7 @@
       "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_626887-MLU73462882987_122023-F.webp"
     },
     {
+      "id": 15,
       "titulo": "Lenovo IdeaPad 3",
       "precio": 1150000,
       "descripcion": {
@@ -168,6 +183,7 @@
       "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_967589-MLU78302502139_082024-F.webp"
     },
     {
+      "id": 16,
       "titulo": "Dell Inspiron 15",
       "precio": 1450000,
       "descripcion": {
@@ -179,6 +195,7 @@
       "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_715670-MLU78362494040_082024-F.webp"
     },
     {
+      "id": 17,
       "titulo": "Asus VivoBook 14",
       "precio": 1350000,
       "descripcion": {
@@ -190,6 +207,7 @@
       "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_930047-MLU76824471200_062024-F.webp"
     },
     {
+      "id": 18,
       "titulo": "Huawei Matebook D15",
       "precio": 1400000,
       "descripcion": {
@@ -201,6 +219,7 @@
       "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_716903-MLA79345153639_092024-F.webp"
     },
     {
+      "id": 19,
       "titulo": "Acer Aspire 5",
       "precio": 1250000,
       "descripcion": {
@@ -212,6 +231,7 @@
       "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_721109-MLA79462786318_102024-F.webp"
     },
     {
+      "id": 20,
       "titulo": "Microsoft Surface Laptop 4",
       "precio": 2300000,
       "descripcion": {
@@ -223,6 +243,7 @@
       "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_642823-MLA69189911693_052023-F.webp"
     },
     {
+      "id": 21,
       "titulo": "LG Gram 17",
       "precio": 2500000,
       "descripcion": {
@@ -234,6 +255,7 @@
       "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_926334-MLA76620010464_062024-F.webp"
     },
     {
+      "id": 22,
       "titulo": "Razer Blade 15",
       "precio": 4000000,
       "descripcion": {
@@ -245,6 +267,7 @@
       "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_970205-MLA79377765520_092024-F.webp"
     },
     {
+      "id": 23,
       "titulo": "Dell XPS 13",
       "precio": 3500000,
       "descripcion": {
@@ -256,6 +279,7 @@
       "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_998655-MLA78925294003_092024-F.webp"
     },
     {
+      "id": 24,
       "titulo": "MSI Prestige 14",
       "precio": 2800000,
       "descripcion": {
@@ -267,6 +291,7 @@
       "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_635682-MLA78052317754_082024-F.webp"
     },
     {
+      "id": 25,
       "titulo": "Samsung Galaxy Book Pro",
       "precio": 2200000,
       "descripcion": {
@@ -278,6 +303,7 @@
       "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_916589-MLU72748566359_112023-F.webp"
     },
     {
+      "id": 26,
       "titulo": "Acer Chromebook 14",
       "precio": 700000,
       "descripcion": {
