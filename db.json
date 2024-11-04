@@ -2,7 +2,7 @@
   "pcs": [
     {
       "titulo": "HP Desktop",
-      "precio": 15000,
+      "precio": 1500000,
       "descripcion": {
         "es": "PC HP con procesador Intel Core i5, 8GB RAM y 1TB HDD.",
         "en": "HP PC with Intel Core i5 processor, 8GB RAM, and 1TB HDD."
@@ -13,7 +13,7 @@
     },
     {
       "titulo": "Lenovo ThinkCentre",
-      "precio": 16000,
+      "precio": 1600000,
       "descripcion": {
         "es": "Lenovo ThinkCentre M720, ideal para trabajo de oficina.",
         "en": "Lenovo ThinkCentre M720, ideal for office work."
@@ -24,7 +24,7 @@
     },
     {
       "titulo": "Dell OptiPlex 3070",
-      "precio": 17000,
+      "precio": 1700000,
       "descripcion": {
         "es": "Dell OptiPlex 3070, con procesador i5 y 8GB RAM.",
         "en": "Dell OptiPlex 3070, with i5 processor and 8GB RAM."
@@ -35,7 +35,7 @@
     },
     {
       "titulo": "Acer Aspire TC",
-      "precio": 14500,
+      "precio": 1450000,
       "descripcion": {
         "es": "Acer Aspire TC, con gráficos integrados y 1TB HDD.",
         "en": "Acer Aspire TC, with integrated graphics and 1TB HDD."
@@ -46,7 +46,7 @@
     },
     {
       "titulo": "HP ProDesk 400",
-      "precio": 15500,
+      "precio": 1550000,
       "descripcion": {
         "es": "HP ProDesk 400 G5, PC de escritorio para oficinas.",
         "en": "HP ProDesk 400 G5, desktop PC for offices."
@@ -57,7 +57,7 @@
     },
     {
       "titulo": "Asus ROG Strix GA15",
-      "precio": 22000,
+      "precio": 2200000,
       "descripcion": {
         "es": "Asus ROG Strix GA15, para gamers, con RTX 3060.",
         "en": "Asus ROG Strix GA15, for gamers, with RTX 3060."
@@ -68,7 +68,7 @@
     },
     {
       "titulo": "MSI Trident 3",
-      "precio": 30000,
+      "precio": 3000000,
       "descripcion": {
         "es": "MSI Trident 3, compacta y potente, ideal para gamers.",
         "en": "MSI Trident 3, compact and powerful, ideal for gamers."
@@ -79,7 +79,7 @@
     },
     {
       "titulo": "Acer Predator Orion",
-      "precio": 35000,
+      "precio": 3500000,
       "descripcion": {
         "es": "Acer Predator Orion, para experiencias de gaming inmersivas.",
         "en": "Acer Predator Orion, for immersive gaming experiences."
@@ -90,7 +90,7 @@
     },
     {
       "titulo": "Lenovo Legion Tower 5",
-      "precio": 30000,
+      "precio": 3000000,
       "descripcion": {
         "es": "Lenovo Legion Tower 5, ideal para juegos y trabajo.",
         "en": "Lenovo Legion Tower 5, ideal for gaming and work."
@@ -101,7 +101,7 @@
     },
     {
       "titulo": "Dell G5 Gaming Desktop",
-      "precio": 33000,
+      "precio": 3300000,
       "descripcion": {
         "es": "Dell G5 Gaming Desktop, rendimiento optimizado para juegos.",
         "en": "Dell G5 Gaming Desktop, optimized performance for gaming."
@@ -112,7 +112,7 @@
     },
     {
       "titulo": "Asus Zen AiO",
-      "precio": 22000,
+      "precio": 2200000,
       "descripcion": {
         "es": "Asus Zen AiO, todo en uno con pantalla táctil.",
         "en": "Asus Zen AiO, all-in-one with touchscreen."
@@ -123,7 +123,7 @@
     },
     {
       "titulo": "Acer Revo One",
-      "precio": 16000,
+      "precio": 1600000,
       "descripcion": {
         "es": "Acer Revo One, compacto y elegante, ideal para entretenimiento.",
         "en": "Acer Revo One, compact and stylish, ideal for entertainment."
@@ -134,7 +134,7 @@
     },
     {
       "titulo": "Lenovo ThinkStation",
-      "precio": 40000,
+      "precio": 4000000,
       "descripcion": {
         "es": "Lenovo ThinkStation, para profesionales creativos y de diseño.",
         "en": "Lenovo ThinkStation, for creative and design professionals."
@@ -147,7 +147,7 @@
   "laptops": [
     {
       "titulo": "HP Laptop 15",
-      "precio": 12000,
+      "precio": 1200000,
       "descripcion": {
         "es": "Laptop HP 15 con procesador Intel Core i5, 8GB RAM y 512GB SSD.",
         "en": "HP Laptop 15 with Intel Core i5 processor, 8GB RAM, and 512GB SSD."
@@ -158,7 +158,7 @@
     },
     {
       "titulo": "Lenovo IdeaPad 3",
-      "precio": 11500,
+      "precio": 1150000,
       "descripcion": {
         "es": "Laptop Lenovo IdeaPad 3, con pantalla de 15.6\" y procesador AMD Ryzen 5.",
         "en": "Lenovo IdeaPad 3 laptop with a 15.6\" screen and AMD Ryzen 5 processor."
@@ -169,7 +169,7 @@
     },
     {
       "titulo": "Dell Inspiron 15",
-      "precio": 14500,
+      "precio": 1450000,
       "descripcion": {
         "es": "Dell Inspiron 15 con 16GB RAM y 1TB HDD, ideal para uso cotidiano.",
         "en": "Dell Inspiron 15 with 16GB RAM and 1TB HDD, ideal for everyday use."
@@ -180,7 +180,7 @@
     },
     {
       "titulo": "Asus VivoBook 14",
-      "precio": 13500,
+      "precio": 1350000,
       "descripcion": {
         "es": "Asus VivoBook 14 con procesador Intel Core i7 y 8GB RAM.",
         "en": "Asus VivoBook 14 with Intel Core i7 processor and 8GB RAM."
@@ -191,7 +191,7 @@
     },
     {
       "titulo": "Huawei Matebook D15",
-      "precio": 14000,
+      "precio": 1400000,
       "descripcion": {
         "es": "Huawei Matebook D15, Intel Core i5, 8GB RAM, 512GB SSD.",
         "en": "Huawei Matebook D15, Intel Core i5, 8GB RAM, 512GB SSD."
@@ -202,7 +202,7 @@
     },
     {
       "titulo": "Acer Aspire 5",
-      "precio": 12500,
+      "precio": 1250000,
       "descripcion": {
         "es": "Acer Aspire 5 con procesador Ryzen 5, 8GB RAM, 256GB SSD.",
         "en": "Acer Aspire 5 with Ryzen 5 processor, 8GB RAM, 256GB SSD."
@@ -213,7 +213,7 @@
     },
     {
       "titulo": "Microsoft Surface Laptop 4",
-      "precio": 23000,
+      "precio": 2300000,
       "descripcion": {
         "es": "Microsoft Surface Laptop 4, 13.5\" pantalla táctil, 16GB RAM.",
         "en": "Microsoft Surface Laptop 4, 13.5\" touchscreen, 16GB RAM."
@@ -224,7 +224,7 @@
     },
     {
       "titulo": "LG Gram 17",
-      "precio": 25000,
+      "precio": 2500000,
       "descripcion": {
         "es": "LG Gram 17 con pantalla de 17\" y batería de larga duración.",
         "en": "LG Gram 17 with 17\" display and long-lasting battery."
@@ -235,7 +235,7 @@
     },
     {
       "titulo": "Razer Blade 15",
-      "precio": 40000,
+      "precio": 4000000,
       "descripcion": {
         "es": "Razer Blade 15, ideal para gamers, RTX 3060, 16GB RAM.",
         "en": "Razer Blade 15, ideal for gamers, RTX 3060, 16GB RAM."
@@ -246,7 +246,7 @@
     },
     {
       "titulo": "Dell XPS 13",
-      "precio": 35000,
+      "precio": 3500000,
       "descripcion": {
         "es": "Dell XPS 13, diseño ultradelgado, 16GB RAM, 512GB SSD.",
         "en": "Dell XPS 13, ultra-thin design, 16GB RAM, 512GB SSD."
@@ -257,7 +257,7 @@
     },
     {
       "titulo": "MSI Prestige 14",
-      "precio": 28000,
+      "precio": 2800000,
       "descripcion": {
         "es": "MSI Prestige 14, con pantalla 4K y procesador i7.",
         "en": "MSI Prestige 14, with 4K display and i7 processor."
@@ -268,7 +268,7 @@
     },
     {
       "titulo": "Samsung Galaxy Book Pro",
-      "precio": 22000,
+      "precio": 2200000,
       "descripcion": {
         "es": "Samsung Galaxy Book Pro, procesador Intel, 8GB RAM.",
         "en": "Samsung Galaxy Book Pro, Intel processor, 8GB RAM."
@@ -279,7 +279,7 @@
     },
     {
       "titulo": "Acer Chromebook 14",
-      "precio": 7000,
+      "precio": 700000,
       "descripcion": {
         "es": "Acer Chromebook 14, ideal para estudiantes, 4GB RAM.",
         "en": "Acer Chromebook 14, ideal for students, 4GB RAM."
